@@ -1,5 +1,9 @@
 # DEI Calendar 
 
+## Original Repository
+
+Original repository located on peers profile here (includes 15 branches, 88 commits): https://github.com/petehodnefield/project-three
+
 ## Description
 
 DEI Calendar is a place for employees to learn about upcoming cultural festivals and holidays to enable them to connect with each other to plan for celebrations. 
